@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Xixazkingdom.aternos.me",
-    "port": 25565,
+    "port":46380,
     "version": "1.20.1",
     "try-creative": false
   },
